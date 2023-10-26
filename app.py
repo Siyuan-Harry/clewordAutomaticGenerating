@@ -197,7 +197,7 @@ def app():
              st.markdown(example_output)
 
     with col2:
-         
+        st.markdown('转化结果如下👇')
         if btn:
             cleword = generate_cleword(script)
             st.markdown(cleword)
