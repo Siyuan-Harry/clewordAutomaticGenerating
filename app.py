@@ -191,7 +191,7 @@ def app():
         btn = st.button('提交')
 
         with st.expander('输入示例'):
-            st.text_area('', value = example_input)
+            st.text_area('', value = example_input, height=500)
 
         with st.expander('输出示例'):
              st.markdown(example_output)
