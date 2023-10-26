@@ -182,6 +182,8 @@ def generate_cleword(content):
 
 def app():
     
+    st.title('''Markdown-to-Cleword v0.0.1 🎉''')
+
     col1, col2 = st.columns(2)
     
     with col1:
