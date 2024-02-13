@@ -2,7 +2,7 @@
 
 This repo contains a very simple streamlit app used for transferring **.md content** into **Cleword codes**.
 
-If you're using cleword to create your own course / specialization, then you can use this project to accelarate your course producing procedure (by automating the entry of course scripts).
+If you're using cleword to create your own course / specialization, it is welcomed to use this project to accelarate your course producing procedure (by automating the entry of course scripts).
 
 
 ## What is "cleword"?
