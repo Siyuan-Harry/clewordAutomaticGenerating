@@ -11,7 +11,7 @@ cleword is a DSL (Domain Specific Language) specifically designed for creating i
 
 Cleword allows you to create an immersive and interactive online learning experience for your students. No matter where, when or 
 
-<center>⬇️</center>
+<p align="center">⬇️</p>
 
 Using cleword code, you can design your course by adding:
 
@@ -25,11 +25,11 @@ Using cleword code, you can design your course by adding:
 - Lesson chapters divided by ppt slides
 - ...
 
-<center>⬇️</center>
+<p align="center">⬇️</p>
 
 Then, a well-designed course learning webpage is easily generated and deployed, which can be shared with anyone or specific groups.
 
-<center>⬇️</center>
+<p align="center">⬇️</p>
 
 By intuitive clicking & interacting with elements in the course webpage, students can learn their new skills/knowledge easily.
 
