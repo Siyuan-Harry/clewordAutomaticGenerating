@@ -35,6 +35,6 @@ By intuitive clicking & interacting with elements in the course webpage, student
 
 ## What's more..
 
-I was fourtunate to participate in the early-stage development of leword syntax and Clepub platform. This platform isn't opened to everyone right now. However, if you have an interest in Cleword or Clepub, feel free to contact me! 🙌
+I was fourtunate to participate in the early-stage development of Cleword syntax and Clepub platform. This platform isn't opened to everyone right now. However, if you have an interest in Cleword or Clepub, feel free to contact me! 🙌
 
 - siyuanfang730@gmail.com
