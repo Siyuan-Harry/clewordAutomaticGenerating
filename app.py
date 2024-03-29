@@ -90,7 +90,7 @@ example_output = '''·
 ```
 '''
 
-def get_completion_from_messages(messages, model="gpt-4-1106-preview", temperature=0):
+def get_completion_from_messages(messages, model="gpt-4-turbo-preview", temperature=0):
         response = openai.ChatCompletion.create(
             model=model,
             messages=messages,
